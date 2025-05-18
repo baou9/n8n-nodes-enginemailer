@@ -1,0 +1,18 @@
+{
+  "name": "n8n-nodes-enginemailer",
+  "version": "1.0.0",
+  "description": "Custom n8n node for Enginemailer API",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint . --ext .ts"
+  },
+  "keywords": ["n8n", "node", "enginemailer"],
+  "author": "n8n Assistant by Nskha",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "eslint": "^7.0.0"
+  }
+}
